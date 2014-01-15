@@ -124,9 +124,9 @@ body {
   padding: 50px 0;
 }
 
-/* Services */
+/* focus */
 
-.services {
+.focus {
   background: #7fbbda;
   padding: 50px 0;
   color: #ffffff;
@@ -162,9 +162,9 @@ i.service-icon {
   background-size: cover;
 }
 
-/* Portfolio */
+/* projects */
 
-.portfolio {
+.projects {
   padding: 50px 0;
 }
 
